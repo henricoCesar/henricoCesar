@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**henricoCesar/henricoCesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, bem-vindo ao meu perfil!
 
-Here are some ideas to get you started:
+Sou estudante de **Análise e Desenvolvimento de Sistemas** apaixonado por tecnologia e sempre em busca de novos aprendizados. 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias e Linguagens que conheço:
+- ☕ **Java**
+- 📜 **JavaScript**
+- 🔤 **C, C++, C#**
+- 🐍 **Python**
+- 🐘 **PHP** (básico)
+- 🗄️ **Bancos de Dados**
+- 🌐 **WordPress**  
+- 🎨 **Bootstrap**
+
+Gosto de explorar diferentes áreas da programação e estou sempre desenvolvendo projetos para praticar e evoluir. ✨  
+
+
+
+
