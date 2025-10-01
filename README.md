@@ -7,7 +7,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** apaixonado por tecno
 - ☕ **Java**
 - 📜 **JavaScript**
 - 🔤 **C, C++, C#**
-- 🐍 **Python**
 - 🐘 **PHP** (básico)
 - 🗄️ **Bancos de Dados**
 - 🌐 **WordPress**  
